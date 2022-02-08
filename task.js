@@ -9,7 +9,7 @@ Result:
 
 
 
-const users1 = require('C:/Users/Admin/Documents/zadanko/js-task/users1.json');
+const users1 = require('./users1.json');
 
 
 
